@@ -1,3 +1,7 @@
+# About Project
+
+This project is done by Rahul Singh and Anurag Singh under the guidance of Dr Rakshit Tandon. This project is done in Gurugram Police Cyber Security Summer Internship 2024.
+
 # Onion Crawler
 
 Onion Crawler is a tool designed to navigate and extract information from the Tor network. It uses
