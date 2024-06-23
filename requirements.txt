@@ -1,0 +1,12 @@
+pip
+wheel
+
+selenium
+tbselenium
+
+PySocks
+requests
+psutil
+
+google-api-python-client
+pyyaml
