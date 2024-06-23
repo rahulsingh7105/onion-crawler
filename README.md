@@ -39,9 +39,9 @@ and analysts interested in the dark web.
 
 ## Configuration
 
-1. Update Configuration File
- Edit the `config.py` file to suit your needs. Ensure that the MongoDB connection string and Tor
-proxy settings are correct.
+1. Update Configuration File --- 
+ Edit the `config.py` file to suit your needs. 
+2. Ensure that the MongoDB connection string and Tor proxy settings are correct. ---
  MONGO_URI = 'mongodb://localhost:27017'
  TOR_PROXY = 'socks5h://127.0.0.1:9050'
 
