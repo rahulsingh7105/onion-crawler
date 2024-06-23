@@ -25,15 +25,15 @@ and analysts interested in the dark web.
 1. Clone the Repository
  git clone https://github.com/rahulsingh7105/onion-crawler.git
  cd onion-crawler
-2. Set Up Python Environment
+3. Set Up Python Environment
  python3 -m venv venv
  source venv/bin/activate # On Windows use `venv\Scripts\activate`
-3. Install Dependencies
+4. Install Dependencies
  pip install -r requirements.txt
-4. Configure Tor
+5. Configure Tor
  Ensure that Tor is installed and running on your system. You can download Tor from
 (https://www.torproject.org/download/).
-5. Start MongoDB
+6. Start MongoDB
  Ensure that MongoDB is installed and running. You can download MongoDB from
 (https://www.mongodb.com/try/download/community).
 
